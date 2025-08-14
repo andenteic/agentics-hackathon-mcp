@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: agentics-hackathon-mcp
+  annotations:
+    github.com/project-slug: andenteic/agentics-hackathon-mcp
+spec:
+  type: other
+  lifecycle: unknown
+  owner: test
